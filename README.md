@@ -31,12 +31,16 @@
 
 ---
 
-## 👑 Owner & Support
+## Stay Updated with Group Security Bot
 
-- **Owner:** [@moh_maya_official](https://t.me/moh_maya_official)  
-- **Updates:** [@otploothub](https://t.me/otploothub)
-
----
-
-> **Made with love by Ayush Gupta**  
-> [AYUSH](https://t.me/ll_toxic_ayush_ll) | [Taste of Gaya](https://instagram.com/aayu__tech)
+<p align="center">
+  <a href="https://telegram.me/otploothub">
+    <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
+  </a>
+  <a href="https://telegram.me/moh_maya_official">
+    <img src="https://img.shields.io/badge/Owner-%40moh_maya_official-blue?style=for-the-badge&logo=telegram">
+  </a>
+  <a href="https://instagram.com/aayu__tech">
+    <img src="https://img.shields.io/badge/Follow-%40aayu__tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
