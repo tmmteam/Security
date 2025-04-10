@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/e7d8fcbcd6b0ba2b334d5-431de28784638bf363.jpg" alt="GroupSecurityBot" width="400"/>
+  <img src="https://envs.sh/52H.jpg" alt="GroupSecurityBot" width="400"/>
 </p>
 
 <h1 align="center">🤖 Group Security Bot 🛡️</h1>
