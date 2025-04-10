@@ -28,7 +28,10 @@ async def start(client, message):
         photo="https://graph.org/file/e7d8fcbcd6b0ba2b334d5-431de28784638bf363.jpg",
         caption=(
             "🤖 𝖦𝗋𝗈𝗎𝗉 𝖲𝖾𝖼𝗎𝗋𝗂𝗍𝗒 𝖱𝗈𝖻𝗈𝗍 🛡️\n\n"
-            "𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝖦𝗋𝗈𝗎𝗉𝖲𝖾𝖼𝗎𝗋𝗂𝗍𝗒𝖱𝗈𝖻𝗈𝗍!"
+            "Welcome to GroupSecurityRobot, your vigilant guardian in this Telegram space!
+Our mission is to ensure a secure and pleasant environment for everyone.
+From copyright protection to maintaining decorum, we've got it covered.
+Feel free to report any concerns, and let's work together to make this community thrive! 🤝🔐"
         ),
         reply_markup=InlineKeyboardMarkup(buttons)
     )
